@@ -1,0 +1,8 @@
+﻿  List.cpp
+F:\TonghopBTtrenDrive\CongTrinhKhoaHoc\CongTrinhKhoaHoc\List.cpp(198,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\TonghopBTtrenDrive\CongTrinhKhoaHoc\CongTrinhKhoaHoc\List.cpp(201,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\TonghopBTtrenDrive\CongTrinhKhoaHoc\CongTrinhKhoaHoc\List.cpp(207,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LopCongTrinhKHoaHoc.cpp
+  Source.cpp
+  Generating Code...
+  CongTrinhKhoaHoc.vcxproj -> F:\TonghopBTtrenDrive\CongTrinhKhoaHoc\Debug\CongTrinhKhoaHoc.exe
